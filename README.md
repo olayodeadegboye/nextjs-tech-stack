@@ -85,3 +85,5 @@ This project is licensed under the MIT License.
 ## Credit
 
 This project was created by [Tom Shaw](https://tomshaw.dev)
+`````````````````````````````````````````````````
+pnpm init
